@@ -232,3 +232,4 @@ RPC 密钥：随机生成，可使用选项`7. 修改 配置文件`自定义
 
 ## Lisence
 [MIT](https://github.com/P3TERX/aria2.sh/blob/master/LICENSE) © Toyo x P3TERX
+
